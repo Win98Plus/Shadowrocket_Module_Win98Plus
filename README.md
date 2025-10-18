@@ -8,5 +8,6 @@ A collection of shadow modules designed to enhance your projects with easy-to-us
 - 🛠️ Framework Agnostic: Works with vanilla JS, CSS, or popular frameworks.
 
 
-Collection by me
+Collection by me!!
+
 Contributions & feedback are always welcome!
