@@ -5,8 +5,8 @@ A collection of shadow modules designed to enhance your projects with easy-to-us
 - 📦 Modular & Lightweight: Import only what you need.
 - 🎨 Easy Customization: Quickly tweak shadow strength, color, blur, and more.
 - 💡 Ready-to-Use Examples: Includes sample code and usage guides.
-* Framework Agnostic: Works with vanilla JS, CSS, or popular frameworks.
+- 🛠️ Framework Agnostic: Works with vanilla JS, CSS, or popular frameworks.
 
 
-Created & maintained by Đặng Thái (dgthai2108).
+Collection by me
 Contributions & feedback are always welcome!
