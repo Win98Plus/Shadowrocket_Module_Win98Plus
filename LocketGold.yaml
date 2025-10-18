@@ -19,8 +19,9 @@ header_rewrites:
 
 scriptings:
 - http_response:
-    name: Locket_Gold_AQVPN
+    name: Locket_Gold_Win98Plus
     match: ^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/[^/]+$)
     script_url: https://raw.githubusercontent.com/Win98Plus/Shadowrocket_Module_Win98Plus/refs/heads/main/LocketGold.js
     body_required: true
     update_interval: 1
+#module rewrite by Win98Plus
